@@ -1,7 +1,7 @@
 # CSharp-CmdLine-Speech-Translate
 An C# command line tool (non-UWP program) that uses the speech/translate API
 
-##Built in Visual Studio 2015
+##This was built in Visual Studio 2015
 
 ## Dependencies
 Newtonsoft.Json
